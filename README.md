@@ -1,5 +1,9 @@
 # Unit 1 – LAN Mini Project
 
+**Author:** Chetan Pawar  
+**PRN:** 2125UCSM1037  
+**Repository:** [cisco](https://github.com/ChetanPawar148/cisco.git)  
+
 ## Building a LAN in Cisco Packet Tracer
 
 This mini-project demonstrates the design and configuration of a Local Area Network using Cisco Packet Tracer.
