@@ -1,8 +1,8 @@
 # Unit 1 – LAN Mini Project
 
-**Author:** yash kawade  
-**PRN:** 2125UCSM1118 
-**Repository:** [cisco](https://github.com/ChetanPawar148/cisco.git)  
+**Author:** Yash Kawade  
+**PRN:** 2125UCSM1118  
+**Repository:** [cisco](https://github.com/kawdeyash/cisco.git)  
 
 ## Building a LAN in Cisco Packet Tracer
 
